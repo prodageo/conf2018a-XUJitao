@@ -23,10 +23,10 @@
  - Lien vers le support (diapos) présenté en conférence : [Support présenté dans une notre conférence avec le même thème](https://fr.slideshare.net/quentinadam/hype-driven-architecture-keynote-at-devfest-toulouse-2018)
  - Nombre de diapos du support : 50-60
  - Plan du support :
-  1. Présentation de conférencier et de l'entreprise
-  2. Transition du travail vers le code du monde réel
-  3. Le marketing de la honte
-  4. Les cinq gros problèmes de la science d'IT
+     1. Présentation de conférencier et de l'entreprise
+     2. Transition du travail vers le code du monde réel
+     3. Le marketing de la honte
+     4. Les cinq gros problèmes de la science d'IT
 
 ## Résumé
 ...
