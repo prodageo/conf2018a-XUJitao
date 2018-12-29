@@ -36,4 +36,7 @@ Les codes écrits pars des développeur ne sont pas une pièce d'art, ils sont d
 Il existe cinq grands problèmes de la science de l'ingénierie informatique, qui sont : Nommer les choses, La gestion des dates et du temps, le problème de la sémantique et du binaire, les données ou l'I/O et l'invalidation du cache. L'exemple de pain pour illustrer la différence du temps du cache l1 vers le réseau nous a montré très clairement l'importance du problème d'I/O. Il n'existe pas une solution qui peut résoudre tout les problèmes, il faut avoir une tolérance pour chaque problème afin de faire fonctionner le produit en général. La plupart du temps du travail est passé pour balancier entre ces cinq problèmes. Le principe est de tester l'ensemble des technologies et trouver les accords bénéficent risque mais aussi acceptables.
 
 ## Architecture et facteur qualité
-...
+
+Conformité :  Contenir un minimum d'erreurs, à satisfaire aux spécifications et à remplir ses missions dans les situations opérationnelles définies. L'un des principes de cette conférence est que les codes produits doivent satisfaire au but du projet. Le plus important est de résoudre les problèmes et satisfaire aux besoins.
+
+Testabilité : Faciliter les procédures de test permettant de s'assurer de l'adéquation des fonctionnalités. Les cinq grands problèmes de la science d'IT ne peuvent pas être résolus en même temps. Il faut faire des tradeoffs entre chaque problème. Pour réaliser les tradeoffs, il faut bien tester les techniques, donc les produit doivent porter une forte testabilité.
